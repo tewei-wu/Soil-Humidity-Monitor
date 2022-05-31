@@ -29,5 +29,5 @@ https://developers.google.com/chart
 https://blog.csdn.net/u010393758/article/details/53737220  
 https://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development
 
-** website design template reference
+* website design template reference  
 https://www.pinterest.com/pin/535435843209013861/  
