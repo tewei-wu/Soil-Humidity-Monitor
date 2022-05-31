@@ -23,4 +23,5 @@ database.rules.json MUST MODIFIED as below:
 ```
 ## Reference
 https://randomnerdtutorials.com/esp32-esp8266-firebase-gauges-charts/  
-https://randomnerdtutorials.com/esp8266-nodemcu-firebase-web-app/
+https://randomnerdtutorials.com/esp8266-nodemcu-firebase-web-app/  
+https://developers.google.com/chart
