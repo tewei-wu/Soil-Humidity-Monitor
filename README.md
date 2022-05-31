@@ -22,10 +22,14 @@ database.rules.json MUST MODIFIED as below:
 }
 ```
 ## Reference
+* tutorial
 https://randomnerdtutorials.com/esp32-esp8266-firebase-gauges-charts/  
 https://randomnerdtutorials.com/esp8266-nodemcu-firebase-web-app/  
+
+* 網頁顯示工具(圖表、儀錶板顯示...)
 https://developers.google.com/chart
 
+* firebase deploy 問題 debug
 https://blog.csdn.net/u010393758/article/details/53737220  
 https://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development
 
