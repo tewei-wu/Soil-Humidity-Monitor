@@ -35,3 +35,6 @@ https://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-d
 
 * website design template reference  
 https://www.pinterest.com/pin/535435843209013861/  
+
+* Show current time  
+https://www.wibibi.com/info.php?tid=175  
