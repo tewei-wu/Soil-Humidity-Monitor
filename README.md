@@ -1,5 +1,8 @@
 # Soil-Humidity-Monitor
 
+## Website URL  
+https://soil-monitor-35fec.web.app/
+
 ## Hardware
 NodeMCU  
 Soil Humidity Sensor  
